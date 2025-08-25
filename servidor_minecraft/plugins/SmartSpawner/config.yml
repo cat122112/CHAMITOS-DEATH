@@ -1,0 +1,76 @@
+#Prevents the custom pickaxe for harvesting spawners from being modified by the anvil
+anvil-protection: true
+
+#Prevents the custom pickaxe for harvesting spawners from being modified by the grindstone
+grindstone-protection: true
+
+#Enable the ability to collect spawners
+spawner-collection: true
+
+#Enable the ability to place spawners
+spawner-place: true
+
+#Enable the ability to collect trial spawners
+trialspawner-collection: true
+
+#Enable the ability to place trial spawners
+trialspawner-place: true
+
+#Trialspawner activation distance
+trialspawner-activation-distance: 8
+
+#When the pickaxe is given or crafted it will be given with a specific damage already
+#If 0 the pickaxe has a lifetime
+item-initial-damage: 0
+
+#Damage the pickaxe takes when picking up a spawner/trial spawner
+#With 16 damage the pickaxe can collect 2 spawners with GOLDEN_PICKAXE
+damage-item-value: 16
+
+#Does it require the custom pickaxe to harvest spawners?
+custom-tool-required: true
+
+#Custom Pickaxe
+recipes:
+  #enable crafting?
+  enable: true
+  #Pickaxe Name (If "" use the default name)
+  item-name: "&4Spawner Pickaxe"
+  #Object ID
+  item: "GOLDEN_PICKAXE"
+  #Pickaxe Lore
+  lore:
+    - ""
+  #Spells required?
+  enchants-required: true
+  #Custom Model Data
+  custom-model-data: 0
+  #List of Enchantments (It is possible to insert multiple enchantments)
+  enchants:
+    - SILK_TOUCH:2
+  #Hide enchantments?
+  hide-enchants: true
+  #Ingredients for crafting
+  crafting:
+    shape:
+      - "EEE"
+      - " S "
+      - " S "
+    ingredients:
+      E: "EMERALD"
+      S: "STICK"
+
+message:
+  no-perm: "&c[SmartSpawner] You do not have permission to use this command"
+  no-entity: "&c[SmartSpawner] The entity was not found!"
+  no-player: "&c[SmartSpawner] Player not found!"
+  no-command: "&c[SmartSpawner] Command not recognized!"
+  no-args: "&c[SmartSpawner] Player or entity missing!"
+  no-place: "&c[SmartSpawner] You do not have permission to place this item"
+  no-break: "&c[SmartSpawner] You are not allowed to pick up this item"
+  no-spawn-egg-use: "&c[SmartSpawner] You are not allowed to use eggs on Spawners/TrialSpawners"
+  spawner-received: "&a[SmartSpawner] You have received a Spawner of "
+  trialspawner-received: "&a[SmartSpawner] You have received a TrialSpawner of "
+  pickaxe-received: "&a[SmartSpawner] You have received: "
+  incompatible-version: "&c[SmartSpawner] TrialSpawner is only available for versions higher than 1.21!"
+  reload: "&aConfiguration reloaded!"
