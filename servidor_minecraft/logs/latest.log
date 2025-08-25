@@ -487,3 +487,18 @@ Caused by: java.lang.IllegalStateException: zip file closed
 [19:20:34] [Server thread/INFO]: IloveStiven_ issued server command: /trigger
 [19:20:38] [Server thread/INFO]: IloveStiven_ issued server command: /tp cat122112
 [19:20:38] [Server thread/INFO]: [IloveStiven_: Teleported IloveStiven_ to cat122112]
+[19:28:24] [Server thread/INFO]: [cat122112: Set own game mode to Spectator Mode]
+[19:28:42] [Server thread/INFO]: cat122112 issued server command: //pos1
+[19:28:47] [Server thread/INFO]: cat122112 issued server command: //pos2
+[19:28:49] [Server thread/INFO]: cat122112 issued server command: //set air
+[19:29:07] [Server thread/INFO]: [cat122112: Set own game mode to Creative Mode]
+[19:29:16] [Server thread/INFO]: cat122112 issued server command: /tp -56 40 67
+[19:29:16] [Server thread/INFO]: [cat122112: Teleported cat122112 to -55.500000, 40.000000, 67.500000]
+[19:29:17] [Server thread/INFO]: IloveStiven_ issued server command: /kill cat122112
+[19:29:17] [Server thread/INFO]: cat122112 was killed
+[19:29:17] [Server thread/INFO]: [IloveStiven_: Killed cat122112]
+[19:29:20] [Server thread/INFO]: cat122112 issued server command: /tp -56 40 67
+[19:29:20] [Server thread/INFO]: [cat122112: Teleported cat122112 to -55.500000, 40.000000, 67.500000]
+[19:29:24] [Server thread/INFO]: cat122112 issued server command: /tp IloveStiven_ @s
+[19:29:24] [Server thread/INFO]: [cat122112: Teleported IloveStiven_ to cat122112]
+[19:31:01] [Server thread/INFO]: cat122112 issued server command: /cinematic play ruta
