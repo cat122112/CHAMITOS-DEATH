@@ -525,3 +525,13 @@ Caused by: java.lang.IllegalStateException: zip file closed
 [23:29:45] [Server thread/INFO]: cat122112 issued server command: //set stone_bricks,mossy_stone_bricks
 [23:29:49] [Server thread/INFO]: cat122112 issued server command: //set stone_bricks,mossy_stone_bricks
 [23:29:54] [Server thread/INFO]: cat122112 issued server command: //set stone_bricks,mossy_stone_bricks
+[23:30:25] [Server thread/INFO]: cat122112 issued server command: //set air
+[23:30:28] [Server thread/INFO]: cat122112 issued server command: //set air
+[23:30:30] [Server thread/INFO]: cat122112 issued server command: //set air
+[23:30:32] [Server thread/INFO]: cat122112 issued server command: //undo
+[23:30:33] [Server thread/INFO]: cat122112 issued server command: //undo
+[23:30:48] [Server thread/INFO]: cat122112 issued server command: //set air
+[23:30:51] [Server thread/INFO]: cat122112 issued server command: //set air
+[23:30:54] [Server thread/INFO]: cat122112 issued server command: //set air
+[23:30:57] [Server thread/INFO]: cat122112 issued server command: //set air
+[23:30:59] [Server thread/INFO]: cat122112 issued server command: //set air
