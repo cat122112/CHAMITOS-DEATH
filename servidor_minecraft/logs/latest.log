@@ -502,3 +502,18 @@ Caused by: java.lang.IllegalStateException: zip file closed
 [19:29:24] [Server thread/INFO]: cat122112 issued server command: /tp IloveStiven_ @s
 [19:29:24] [Server thread/INFO]: [cat122112: Teleported IloveStiven_ to cat122112]
 [19:31:01] [Server thread/INFO]: cat122112 issued server command: /cinematic play ruta
+[19:31:06] [Server thread/INFO]: cat122112 issued server command: /cinematic play ruta all
+[19:31:57] [Server thread/INFO]: cat122112 issued server command: /cinematic stop
+[19:33:13] [Server thread/INFO]: cat122112 issued server command: //set stone
+[19:33:30] [Server thread/INFO]: cat122112 issued server command: //set stone
+[19:33:51] [Server thread/INFO]: [cat122112: Set own game mode to Spectator Mode]
+[19:33:53] [Server thread/INFO]: [cat122112: Set own game mode to Creative Mode]
+[19:34:37] [Server thread/INFO]: cat122112 issued server command: //set water
+[19:36:40] [Server thread/INFO]: cat122112 issued server command: /ban IloveStiven_
+[19:36:40] [Server thread/INFO]: [cat122112: Banned IloveStiven_: Banned by an operator.]
+[19:36:40] [Server thread/INFO]: IloveStiven_ lost connection: You are banned from this server
+[19:36:40] [Server thread/INFO]: IloveStiven_ left the game
+[19:36:54] [Server thread/INFO]: IloveStiven_ (/127.130.169.114:49617) lost connection: Disconnected
+[19:36:55] [User Authenticator #3/INFO]: UUID of player IloveStiven_ is 1bef747c-a48e-3479-bb59-e8e0a0b5fc5a
+[19:36:56] [Server thread/INFO]: cat122112 issued server command: /pardon IloveStiven_
+[19:36:56] [Server thread/INFO]: [cat122112: Unbanned IloveStiven_]
