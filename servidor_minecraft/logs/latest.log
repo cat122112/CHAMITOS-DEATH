@@ -598,3 +598,96 @@ Caused by: java.lang.IllegalStateException: zip file closed
 [14:45:06] [Server thread/INFO]: [iMathias1: Summoned new Lightning Bolt]
 [14:45:07] [Server thread/INFO]: iMathias1 issued server command: /summon minecraft:lightning_bolt
 [14:45:07] [Server thread/INFO]: [iMathias1: Summoned new Lightning Bolt]
+[14:46:16] [Server thread/INFO]: iMathias1 issued server command: /weather clear
+[14:46:16] [Server thread/INFO]: [iMathias1: Set the weather to clear]
+[14:46:19] [Server thread/INFO]: iMathias1 issued server command: /tp @a @s
+[14:46:19] [Server thread/INFO]: [iMathias1: Teleported 2 entities to iMathias1]
+[14:46:27] [Server thread/INFO]: iMathias1 issued server command: /tp @a @s
+[14:46:27] [Server thread/INFO]: [iMathias1: Teleported 2 entities to iMathias1]
+[14:46:32] [Server thread/INFO]: iMathias1 issued server command: /tp @a @s
+[14:46:32] [Server thread/INFO]: [iMathias1: Teleported 2 entities to iMathias1]
+[14:46:35] [Server thread/INFO]: iMathias1 issued server command: /tp @a @s
+[14:46:35] [Server thread/INFO]: [iMathias1: Teleported 2 entities to iMathias1]
+[14:46:41] [User Authenticator #6/INFO]: UUID of player iAnderson1 is 934be25d-4c10-36af-91ba-4e1c47e28858
+[14:46:49] [Server thread/INFO]: iMathias1 issued server command: /kill
+[14:46:49] [Server thread/INFO]: iMathias1 was killed
+[14:46:49] [Server thread/INFO]: [iMathias1: Killed iMathias1]
+[14:46:57] [Server thread/INFO]: iAnderson1 joined the game
+[14:46:57] [Server thread/INFO]: iAnderson1[/127.228.203.211:56099] logged in with entity id 924 at ([world]-61.05801003009178, 101.75029900000061, 7.8616340258747295)
+[14:46:57] [Server thread/INFO]: iMathias1 issued server command: /function cpalawshow:life_system/set_heart/10
+[14:46:57] [Server thread/INFO]: [iMathias1: Running function cpalawshow:life_system/set_heart/10]
+[14:46:59] [Server thread/INFO]: iMathias1 issued server command: /tp iAnderson1
+[14:46:59] [Server thread/INFO]: [iMathias1: Teleported iMathias1 to iAnderson1]
+[14:47:06] [Server thread/INFO]: iMathias1 issued server command: /gamemode survival iAnderson1
+[14:47:06] [Server thread/INFO]: [iMathias1: Set iAnderson1's game mode to Survival Mode]
+[14:47:12] [Server thread/INFO]: iMathias1 issued server command: /summon minecraft:lightning_bolt
+[14:47:12] [Server thread/INFO]: [iMathias1: Summoned new Lightning Bolt]
+[14:47:20] [Server thread/INFO]: iMathias1 issued server command: /effect clear @
+[14:47:21] [Server thread/INFO]: iMathias1 issued server command: /effect clear @a
+[14:47:21] [Server thread/INFO]: [iMathias1: Removed every effect from 3 targets]
+[14:47:25] [Server thread/INFO]: iMathias1 issued server command: /tp @a @s
+[14:47:25] [Server thread/INFO]: [iMathias1: Teleported 3 entities to iMathias1]
+[14:47:28] [Server thread/INFO]: [iMathias1: Set own game mode to Survival Mode]
+[14:47:48] [Server thread/INFO]: iMathias1 issued server command: /skin set luvismi
+[14:48:04] [Server thread/INFO]: iMathias1 issued server command: /skin set top
+[14:48:15] [Server thread/INFO]: iMathias1 issued server command: /time set 0
+[14:48:15] [Server thread/INFO]: [iMathias1: Set the time to 0]
+[14:48:18] [Server thread/INFO]: iMathias1 issued server command: /summon minecraft:lightning_bolt
+[14:48:18] [Server thread/INFO]: [iMathias1: Summoned new Lightning Bolt]
+[14:48:20] [Server thread/INFO]: iAnderson1 issued server command: /skin set lop
+[14:48:22] [Server thread/INFO]: iMathias1 issued server command: /summon minecraft:lightning_bolt
+[14:48:22] [Server thread/INFO]: [iMathias1: Summoned new Lightning Bolt]
+[14:48:23] [Server thread/INFO]: iMathias1 issued server command: /summon minecraft:lightning_bolt
+[14:48:23] [Server thread/INFO]: [iMathias1: Summoned new Lightning Bolt]
+[14:48:35] [Server thread/INFO]: [iMathias1: Set own game mode to Spectator Mode]
+[14:48:40] [Server thread/INFO]: iMathias1 issued server command: /tp @a @s
+[14:48:40] [Server thread/INFO]: [iMathias1: Teleported 3 entities to iMathias1]
+[14:48:42] [Server thread/INFO]: [iMathias1: Set own game mode to Survival Mode]
+[14:48:45] [Server thread/INFO]: [iMathias1: Set own game mode to Creative Mode]
+[14:48:49] [Server thread/INFO]: iMathias1 issued server command: /tp @a @s
+[14:48:49] [Server thread/INFO]: [iMathias1: Teleported 3 entities to iMathias1]
+[14:48:55] [Server thread/INFO]: iAnderson1 issued server command: /skin set loq
+[14:49:04] [Async Chat Thread - #1/INFO]: [Not Secure] <iEileen1> soy de temu
+[14:49:17] [Server thread/INFO]: iMathias1 issued server command: //replace air bedrock
+[14:49:30] [Server thread/INFO]: iMathias1 issued server command: /gamemode survival
+[14:49:30] [Server thread/INFO]: [iMathias1: Set own game mode to Survival Mode]
+[14:49:50] [Server thread/INFO]: iMathias1 issued server command: /clear
+[14:49:50] [Server thread/INFO]: [iMathias1: Removed 65 item(s) from player iMathias1]
+[14:50:21] [Server thread/INFO]: iAnderson1 issued server command: /skin set novia
+[14:50:40] [Server thread/INFO]: iMathias1 issued server command: /kill iEileen1
+[14:50:40] [Server thread/INFO]: iEileen1 was killed
+[14:50:40] [Server thread/INFO]: [iMathias1: Killed iEileen1]
+[14:50:40] [Server thread/INFO]: iAnderson1 issued server command: /skin set gato
+[14:50:44] [Server thread/INFO]: iMathias1 issued server command: /tp iEileen1 @s
+[14:50:44] [Server thread/INFO]: [iMathias1: Teleported iEileen1 to iMathias1]
+[14:51:19] [Server thread/INFO]: iAnderson1 issued server command: /skin set gato
+[14:51:54] [Server thread/INFO]: iAnderson1 issued server command: /skin set muerte
+[14:52:23] [Server thread/INFO]: iMathias1 issued server command: /skin set cat122112
+[14:52:24] [Server thread/INFO]: iAnderson1 issued server command: /skin set kill
+[14:52:28] [Server thread/INFO]: iMathias1 issued server command: /function cpala_waitingscreen:_cmd/show_wait_screen
+[14:52:28] [Server thread/INFO]: [iMathias1: Running function cpala_waitingscreen:_cmd/show_wait_screen]
+[14:52:41] [Server thread/INFO]: iMathias1 issued server command: /function cpala_waitingscreen:_cmd/hide_wait_screen
+[14:52:41] [Server thread/INFO]: [iMathias1: Running function cpala_waitingscreen:_cmd/hide_wait_screen]
+[14:52:43] [Server thread/INFO]: iMathias1 issued server command: /tp @a @s
+[14:52:43] [Server thread/INFO]: [iMathias1: Teleported 3 entities to iMathias1]
+[14:53:09] [Server thread/INFO]: iAnderson1 issued server command: /skin set cat
+[14:53:10] [Async Chat Thread - #3/INFO]: [Not Secure] <iEileen1> soy de temu
+[14:54:48] [Server thread/INFO]: iMathias1 issued server command: /function cpalawshow:config
+[14:54:48] [Server thread/INFO]: [iMathias1: Running function cpalawshow:config]
+[14:54:52] [Server thread/INFO]: iMathias1 issued server command: /function cpalawshow:animation/death/enable_immediate_respawn
+[14:54:52] [Server thread/INFO]: [iMathias1: Running function cpalawshow:animation/death/enable_immediate_respawn]
+[14:54:55] [Server thread/INFO]: iMathias1 issued server command: /function cpalawshow:animation/death/enable_on_death
+[14:54:55] [Server thread/INFO]: [iMathias1: Running function cpalawshow:animation/death/enable_on_death]
+[14:54:56] [Server thread/INFO]: iMathias1 issued server command: /function cpalawshow:animation/death/enable_life_system
+[14:54:56] [Server thread/INFO]: [iMathias1: Running function cpalawshow:animation/death/enable_life_system]
+[14:55:08] [User Authenticator #7/INFO]: UUID of player IloveStiven_ is 1bef747c-a48e-3479-bb59-e8e0a0b5fc5a
+[14:55:16] [Server thread/INFO]: IloveStiven_ joined the game
+[14:55:16] [Server thread/INFO]: IloveStiven_[/127.130.169.114:34015] logged in with entity id 1362 at ([world]-56.00911458810053, 46.0, 33.141334259342884)
+[14:55:19] [Server thread/INFO]: iMathias1 issued server command: /tp IloveStiven_ @s
+[14:55:19] [Server thread/INFO]: [iMathias1: Teleported IloveStiven_ to iMathias1]
+[14:55:21] [Server thread/INFO]: iMathias1 issued server command: /clear IloveStiven_
+[14:55:21] [Server thread/INFO]: [iMathias1: Removed 385 item(s) from player IloveStiven_]
+[14:55:25] [Server thread/INFO]: iMathias1 issued server command: /gamemode survival IloveStiven_
+[14:55:25] [Server thread/INFO]: [iMathias1: Set IloveStiven_'s game mode to Survival Mode]
+[14:55:26] [Server thread/INFO]: iMathias1 issued server command: /clear IloveStiven_
+[14:55:33] [Async Chat Thread - #5/INFO]: [Not Secure] <iMathias1> falta 1
