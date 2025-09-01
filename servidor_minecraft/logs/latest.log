@@ -691,3 +691,87 @@ Caused by: java.lang.IllegalStateException: zip file closed
 [14:55:25] [Server thread/INFO]: [iMathias1: Set IloveStiven_'s game mode to Survival Mode]
 [14:55:26] [Server thread/INFO]: iMathias1 issued server command: /clear IloveStiven_
 [14:55:33] [Async Chat Thread - #5/INFO]: [Not Secure] <iMathias1> falta 1
+[14:55:40] [Async Chat Thread - #5/INFO]: [Not Secure] <IloveStiven_> olaaa iAnderson1
+[14:55:42] [Server thread/INFO]: iMathias1 issued server command: /tp iAnderson1 @s
+[14:55:42] [Server thread/INFO]: [iMathias1: Teleported iAnderson1 to iMathias1]
+[14:56:03] [Async Chat Thread - #5/INFO]: [Not Secure] <iMathias1> no esta aca xd
+[14:56:18] [Async Chat Thread - #5/INFO]: [Not Secure] <iAnderson1> hola stiven
+[14:56:19] [Async Chat Thread - #5/INFO]: [Not Secure] <iEileen1> soy de temu
+[14:56:23] [Async Chat Thread - #5/INFO]: [Not Secure] <IloveStiven_> holaa
+[14:56:23] [Async Chat Thread - #5/INFO]: [Not Secure] <iMathias1> iEileen1 que te pasa
+[14:56:33] [Async Chat Thread - #5/INFO]: [Not Secure] <iEileen1> es verdad
+[14:56:47] [Async Chat Thread - #5/INFO]: [Not Secure] <iMathias1> la wea viene de alibaba XDD
+[14:57:02] [Async Chat Thread - #5/INFO]: [Not Secure] <iMathias1> esta en pacifico..
+[14:57:13] [Async Chat Thread - #5/INFO]: [Not Secure] <iEileen1> entonces si soy de temu
+[14:57:37] [Async Chat Thread - #5/INFO]: [Not Secure] <iMathias1> no es pa ahorita
+[14:57:45] [Async Chat Thread - #5/INFO]: [Not Secure] <iMathias1> va
+[14:57:46] [Server thread/INFO]: iAnderson1 issued server command: /
+[14:58:02] [Async Chat Thread - #5/INFO]: [Not Secure] <iEileen1> no se por qué Stiven me dio u huebo
+[14:58:10] [Async Chat Thread - #5/INFO]: [Not Secure] <IloveStiven_> estaba ai XD
+[14:58:21] [Async Chat Thread - #5/INFO]: [Not Secure] <iEileen1> XD
+[14:58:27] [Async Chat Thread - #5/INFO]: [Not Secure] <IloveStiven_> Ns XD
+[14:58:30] [Async Chat Thread - #5/INFO]: [Not Secure] <IloveStiven_> regresamelo
+[14:58:30] [Server thread/INFO]: iMathias1 issued server command: /reload confirm
+[14:58:31] [Server thread/INFO]: iMathias1 issued server command: /reload
+[14:58:31] [Server thread/INFO]: [iMathias1: Reloading!]
+[14:58:32] [Server thread/INFO]: Loaded 1407 recipes
+[14:58:32] [Server thread/INFO]: Loaded 1520 advancements
+[14:58:34] [Server thread/INFO]: iMathias1 issued server command: /plugins
+[14:58:40] [Async Chat Thread - #5/INFO]: [Not Secure] <IloveStiven_> :C
+[14:58:43] [Server thread/INFO]: iMathias1 issued server command: /time set 0
+[14:58:43] [Server thread/INFO]: [iMathias1: Set the time to 0]
+[14:58:48] [Async Chat Thread - #5/INFO]: [Not Secure] <iMathias1> XDD
+[14:58:55] [Async Chat Thread - #5/INFO]: [Not Secure] <IloveStiven_> iAnderson1 esa skin?
+[14:59:03] [Async Chat Thread - #5/INFO]: [Not Secure] <iEileen1> Ander son >:(
+[14:59:06] [Async Chat Thread - #5/INFO]: [Not Secure] <iAnderson1> ni se
+[14:59:24] [Server thread/INFO]: iMathias1 issued server command: /msg IloveStiven_ parece homosexual xd
+[14:59:44] [Async Chat Thread - #5/INFO]: [Not Secure] <iMathias1> le esta cargando XD
+[14:59:57] [Async Chat Thread - #5/INFO]: [Not Secure] <iMathias1> alcalted XD
+[15:00:01] [Async Chat Thread - #5/INFO]: [Not Secure] <iEileen1> soy de temuuuuuuuuuuuuuuuuuuuuuuu
+[15:00:06] [Server thread/INFO]: iMathias1 issued server command: /tp iEileen1 @s
+[15:00:06] [Server thread/INFO]: [iMathias1: Teleported iEileen1 to iMathias1]
+[15:00:33] [Server thread/INFO]: iMathias1 issued server command: /msg IloveStiven_ XDD
+[15:00:50] [Async Chat Thread - #6/INFO]: [Not Secure] <iEileen1> oye Stiven
+[15:00:50] [Server thread/INFO]: iAnderson1 issued server command: /skin set sofia
+[15:00:53] [Async Chat Thread - #6/INFO]: [Not Secure] <IloveStiven_> dime
+[15:01:06] [Async Chat Thread - #6/INFO]: [Not Secure] <iMathias1> ya le quite el chat
+[15:01:08] [Async Chat Thread - #6/INFO]: [Not Secure] <iMathias1> dice pura estupide
+[15:01:20] [Async Chat Thread - #6/INFO]: [Not Secure] <IloveStiven_> iEileen1 dimelo por cartel
+[15:01:39] [Async Chat Thread - #6/INFO]: [Not Secure] <iMathias1> ESA SKIN QUE
+[15:01:50] [Async Chat Thread - #6/INFO]: [Not Secure] <iMathias1> XD
+[15:01:58] [Async Chat Thread - #6/INFO]: [Not Secure] <iMathias1> tenia pensado poner esto
+[15:02:04] [Server thread/INFO]: iAnderson1 issued server command: /skin set donalc
+[15:02:04] [Async Chat Thread - #6/INFO]: [Not Secure] <iMathias1> para que entren todos
+[15:02:07] [Server thread/INFO]: iMathias1 issued server command: /function cpala_waitingscreen:_cmd/show_wait_screen
+[15:02:07] [Server thread/INFO]: [iMathias1: Running function cpala_waitingscreen:_cmd/show_wait_screen]
+[15:02:09] [Server thread/INFO]: iMathias1 issued server command: /function cpala_waitingscreen:_cmd/hide_wait_screen
+[15:02:09] [Server thread/INFO]: [iMathias1: Running function cpala_waitingscreen:_cmd/hide_wait_screen]
+[15:02:15] [Async Chat Thread - #6/INFO]: [Not Secure] <iMathias1> XD
+[15:02:25] [Async Chat Thread - #6/INFO]: [Not Secure] <IloveStiven_> iEileen1 sigueme
+[15:02:31] [Server thread/INFO]: iAnderson1 issued server command: /skin set pol
+[15:02:39] [Async Chat Thread - #6/INFO]: [Not Secure] <iMathias1> esta diciendo noma "soy de temu"
+[15:02:43] [Async Chat Thread - #6/INFO]: [Not Secure] <IloveStiven_> XD
+[15:02:48] [Server thread/INFO]: iAnderson1 issued server command: /skin set danomc
+[15:02:55] [Async Chat Thread - #6/INFO]: [Not Secure] <iMathias1> le quito el teclado
+[15:03:11] [Async Chat Thread - #6/INFO]: [Not Secure] <iMathias1> y este q
+[15:03:18] [Async Chat Thread - #6/INFO]: [Not Secure] <iMathias1> XD
+[15:03:25] [Async Chat Thread - #6/INFO]: [Not Secure] <IloveStiven_> blanco iEileen1
+[15:03:37] [Async Chat Thread - #6/INFO]: [Not Secure] <iMathias1> ya lo puse en dificil
+[15:03:40] [Server thread/INFO]: iMathias1 issued server command: /difficulty normal
+[15:03:40] [Server thread/INFO]: [iMathias1: The difficulty has been set to Normal]
+[15:03:48] [Server thread/INFO]: iMathias1 issued server command: /give @a bread 16
+[15:03:48] [Server thread/INFO]: [iMathias1: Gave 16 [Bread] to 4]
+[15:04:19] [Async Chat Thread - #6/INFO]: [Not Secure] <iMathias1> esta en dificil
+[15:04:23] [Async Chat Thread - #6/INFO]: [Not Secure] <iMathias1> vamos a equiparnos
+[15:04:33] [Async Chat Thread - #6/INFO]: [Not Secure] <iMathias1> no
+[15:04:38] [Server thread/INFO]: iMathias1 issued server command: /tp iEileen1 @s
+[15:04:38] [Server thread/INFO]: [iMathias1: Teleported iEileen1 to iMathias1]
+[15:04:43] [Async Chat Thread - #6/INFO]: [Not Secure] <iMathias1> son bien malasos
+[15:04:54] [Async Chat Thread - #6/INFO]: [Not Secure] <iMathias1> vengan
+[15:04:59] [Async Chat Thread - #6/INFO]: [Not Secure] <iMathias1> vengan
+[15:05:00] [Server thread/INFO]: iMathias1 issued server command: /tp iEileen1 @s
+[15:05:00] [Server thread/INFO]: [iMathias1: Teleported iEileen1 to iMathias1]
+[15:05:35] [Server thread/INFO]: iMathias1 issued server command: /tp iEileen1 @s
+[15:05:35] [Server thread/INFO]: [iMathias1: Teleported iEileen1 to iMathias1]
+[15:05:37] [Server thread/INFO]: iMathias1 issued server command: /summon minecraft:lightning_bolt
+[15:05:37] [Server thread/INFO]: [iMathias1: Summoned new Lightning Bolt]
