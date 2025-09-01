@@ -881,3 +881,35 @@ Caused by: java.lang.IllegalStateException: zip file closed
 [15:22:58] [Server thread/INFO]: [iMathias1: Teleported iMathias1 to IloveStiven_]
 [15:25:42] [Server thread/INFO]: IloveStiven_ was shot by Skeleton
 [15:25:52] [Server thread/INFO]: iMathias1 was shot by Skeleton
+[15:26:07] [Server thread/INFO]: iMathias1 issued server command: /tp IloveStiven_
+[15:26:07] [Server thread/INFO]: [iMathias1: Teleported iMathias1 to IloveStiven_]
+[15:26:19] [Server thread/INFO]: iMathias1 issued server command: /give @a bread 16
+[15:26:19] [Server thread/INFO]: [iMathias1: Gave 16 [Bread] to 2]
+[15:27:53] [Server thread/INFO]: iMathias1 issued server command: /difficulty peaceful
+[15:27:53] [Server thread/INFO]: [iMathias1: The difficulty has been set to Peaceful]
+[15:28:16] [Server thread/INFO]: iMathias1 issued server command: /difficulty hard
+[15:28:16] [Server thread/INFO]: [iMathias1: The difficulty has been set to Hard]
+[15:28:35] [Server thread/INFO]: IloveStiven_ was blown up by Creeper
+[15:29:23] [Server thread/INFO]: IloveStiven_ was blown up by Creeper
+[15:29:27] [Server thread/INFO]: IloveStiven_ was blown up by Creeper
+[15:29:30] [Server thread/INFO]: iMathias1 issued server command: /kill
+[15:29:30] [Server thread/INFO]: iMathias1 was killed
+[15:29:30] [Server thread/INFO]: [iMathias1: Killed iMathias1]
+[15:29:36] [Server thread/INFO]: iMathias1 issued server command: /kill IloveStiven_
+[15:29:36] [Server thread/INFO]: IloveStiven_ was killed
+[15:29:36] [Server thread/INFO]: [iMathias1: Killed IloveStiven_]
+[15:29:37] [Server thread/INFO]: iMathias1 issued server command: /kill IloveStiven_
+[15:29:37] [Server thread/INFO]: IloveStiven_ was killed
+[15:29:37] [Server thread/INFO]: [iMathias1: Killed IloveStiven_]
+[15:29:38] [Server thread/INFO]: iMathias1 issued server command: /kill IloveStiven_
+[15:29:38] [Server thread/INFO]: IloveStiven_ was killed
+[15:29:38] [Server thread/INFO]: [iMathias1: Killed IloveStiven_]
+[15:29:39] [Server thread/INFO]: iMathias1 issued server command: /kill IloveStiven_
+[15:29:39] [Server thread/INFO]: IloveStiven_ was killed
+[15:29:39] [Server thread/INFO]: [iMathias1: Killed IloveStiven_]
+[15:29:43] [Server thread/INFO]: IloveStiven_ hit the ground too hard
+[15:29:50] [Server thread/INFO]: IloveStiven_ issued server command: /gamemode
+[15:29:51] [Server thread/INFO]: IloveStiven_ lost connection: Disconnected
+[15:29:52] [Server thread/INFO]: IloveStiven_ left the game
+[15:29:53] [Server thread/INFO]: iMathias1 lost connection: Disconnected
+[15:29:53] [Server thread/INFO]: iMathias1 left the game
