@@ -872,3 +872,12 @@ Caused by: java.lang.IllegalStateException: zip file closed
 [15:15:14] [Async Chat Thread - #7/INFO]: [Not Secure] <iMathias1> a que si
 [15:15:24] [Async Chat Thread - #7/INFO]: [Not Secure] <iMathias1> call nuvs
 [15:15:31] [Async Chat Thread - #7/INFO]: [Not Secure] <iMathias1> si esta
+[15:17:34] [Server thread/INFO]: IloveStiven_ was shot by Skeleton
+[15:18:47] [Server thread/INFO]: IloveStiven_ was blown up by Creeper
+[15:20:16] [Server thread/INFO]: iMathias1 issued server command: /function cpalawshow:animation/death/enable_life_system
+[15:20:16] [Server thread/INFO]: [iMathias1: Running function cpalawshow:animation/death/enable_life_system]
+[15:21:29] [Server thread/INFO]: IloveStiven_ was shot by Skeleton
+[15:22:58] [Server thread/INFO]: iMathias1 issued server command: /tp IloveStiven_
+[15:22:58] [Server thread/INFO]: [iMathias1: Teleported iMathias1 to IloveStiven_]
+[15:25:42] [Server thread/INFO]: IloveStiven_ was shot by Skeleton
+[15:25:52] [Server thread/INFO]: iMathias1 was shot by Skeleton
