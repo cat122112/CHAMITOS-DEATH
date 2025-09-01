@@ -775,3 +775,100 @@ Caused by: java.lang.IllegalStateException: zip file closed
 [15:05:35] [Server thread/INFO]: [iMathias1: Teleported iEileen1 to iMathias1]
 [15:05:37] [Server thread/INFO]: iMathias1 issued server command: /summon minecraft:lightning_bolt
 [15:05:37] [Server thread/INFO]: [iMathias1: Summoned new Lightning Bolt]
+[15:05:52] [Server thread/INFO]: iMathias1 issued server command: /tp iEileen1 @s
+[15:05:52] [Server thread/INFO]: [iMathias1: Teleported iEileen1 to iMathias1]
+[15:06:53] [Server thread/INFO]: iMathias1 issued server command: /tp IloveStiven_
+[15:06:53] [Server thread/INFO]: [iMathias1: Teleported iMathias1 to IloveStiven_]
+[15:07:11] [Server thread/INFO]: iMathias1 issued server command: /tp @a q
+[15:07:13] [Server thread/INFO]: iMathias1 issued server command: /tp @a @s
+[15:07:13] [Server thread/INFO]: [iMathias1: Teleported 4 entities to iMathias1]
+[15:07:50] [Async Chat Thread - #7/INFO]: [Not Secure] <iMathias1> nos estan siguiendo
+[15:07:58] [Async Chat Thread - #7/INFO]: [Not Secure] <iAnderson1> no
+[15:08:25] [Server thread/INFO]: iMathias1 issued server command: /msg IloveStiven_ y si les doy mas coras? xd
+[15:08:36] [Server thread/INFO]: iMathias1 issued server command: /effect give iEileen1 minecraft:health_boost infinite 3 true
+[15:08:36] [Server thread/INFO]: [iMathias1: Applied effect Health Boost to iEileen1]
+[15:08:44] [Server thread/INFO]: iMathias1 issued server command: /effect give iAnderson1 minecraft:health_boost infinite 3 true
+[15:08:44] [Server thread/INFO]: [iMathias1: Applied effect Health Boost to iAnderson1]
+[15:08:46] [Server thread/INFO]: IloveStiven_ was shot by Skeleton
+[15:08:46] [Server thread/INFO]: iMathias1 issued server command: /tp IloveStiven_ @s
+[15:08:46] [Server thread/INFO]: [iMathias1: Teleported IloveStiven_ to iMathias1]
+[15:08:47] [Async Chat Thread - #8/INFO]: [Not Secure] <iMathias1> XDD
+[15:09:09] [Async Chat Thread - #8/INFO]: [Not Secure] <iMathias1> XD
+[15:09:14] [Server thread/INFO]: iMathias1 issued server command: /tp IloveStiven_ @s
+[15:09:14] [Server thread/INFO]: [iMathias1: Teleported IloveStiven_ to iMathias1]
+[15:09:44] [Async Chat Thread - #8/INFO]: [Not Secure] <iMathias1> no se saben ni mover bien
+[15:09:52] [Server thread/INFO]: iMathias1 issued server command: /time set 0
+[15:09:52] [Server thread/INFO]: [iMathias1: Set the time to 0]
+[15:09:56] [Async Chat Thread - #8/INFO]: [Not Secure] <iMathias1> XD
+[15:10:01] [Server thread/INFO]: iMathias1 issued server command: /tp @a @s
+[15:10:01] [Server thread/INFO]: [iMathias1: Teleported 4 entities to iMathias1]
+[15:10:25] [Async Chat Thread - #8/INFO]: [Not Secure] <iMathias1> el ñifu
+[15:10:35] [Server thread/INFO]: iMathias1 issued server command: /tp @a @s
+[15:10:35] [Server thread/INFO]: [iMathias1: Teleported 4 entities to iMathias1]
+[15:11:00] [Async Chat Thread - #8/INFO]: [Not Secure] <iMathias1> agamonos escudos
+[15:11:04] [Async Chat Thread - #8/INFO]: [Not Secure] <iMathias1> ven
+[15:11:09] [Server thread/INFO]: iMathias1 issued server command: /tp @a @s
+[15:11:09] [Server thread/INFO]: [iMathias1: Teleported 4 entities to iMathias1]
+[15:11:10] [Server thread/INFO]: iMathias1 issued server command: /tp @a @s
+[15:11:10] [Server thread/INFO]: [iMathias1: Teleported 4 entities to iMathias1]
+[15:11:10] [Server thread/INFO]: iMathias1 issued server command: /tp @a @s
+[15:11:10] [Server thread/INFO]: [iMathias1: Teleported 4 entities to iMathias1]
+[15:11:11] [Server thread/INFO]: iMathias1 issued server command: /tp @a @s
+[15:11:11] [Server thread/INFO]: [iMathias1: Teleported 4 entities to iMathias1]
+[15:11:11] [Server thread/INFO]: iMathias1 issued server command: /tp @a @s
+[15:11:11] [Server thread/INFO]: [iMathias1: Teleported 4 entities to iMathias1]
+[15:11:11] [Server thread/INFO]: iMathias1 issued server command: /tp @a @s
+[15:11:11] [Server thread/INFO]: [iMathias1: Teleported 4 entities to iMathias1]
+[15:11:11] [Server thread/INFO]: iMathias1 issued server command: /tp @a @s
+[15:11:11] [Server thread/INFO]: [iMathias1: Teleported 4 entities to iMathias1]
+[15:11:18] [Server thread/INFO]: iMathias1 issued server command: /tp iAnderson1 @s
+[15:11:18] [Server thread/INFO]: [iMathias1: Teleported iAnderson1 to iMathias1]
+[15:11:22] [Server thread/INFO]: iMathias1 issued server command: /tp iAnderson1 @s
+[15:11:22] [Server thread/INFO]: [iMathias1: Teleported iAnderson1 to iMathias1]
+[15:11:23] [Server thread/INFO]: iMathias1 issued server command: /tp @a @s
+[15:11:23] [Server thread/INFO]: [iMathias1: Teleported 4 entities to iMathias1]
+[15:11:24] [Server thread/INFO]: iMathias1 issued server command: /tp @a @s
+[15:11:24] [Server thread/INFO]: [iMathias1: Teleported 4 entities to iMathias1]
+[15:11:25] [Server thread/INFO]: iMathias1 issued server command: /tp @a @s
+[15:11:25] [Server thread/INFO]: [iMathias1: Teleported 4 entities to iMathias1]
+[15:11:27] [Async Chat Thread - #8/INFO]: [Not Secure] <iMathias1> sonbabosdos
+[15:11:28] [Server thread/INFO]: iMathias1 issued server command: /tp @a @s
+[15:11:28] [Server thread/INFO]: [iMathias1: Teleported 4 entities to iMathias1]
+[15:11:30] [Server thread/INFO]: iMathias1 issued server command: /tp @a @s
+[15:11:30] [Server thread/INFO]: [iMathias1: Teleported 4 entities to iMathias1]
+[15:11:33] [Server thread/INFO]: iAnderson1 fell from a high place
+[15:11:35] [Async Chat Thread - #8/INFO]: [Not Secure] <iMathias1> XDDD
+[15:11:41] [Server thread/INFO]: iMathias1 issued server command: /effect give @a minecraft:night_vision infinite 1 true
+[15:11:41] [Server thread/INFO]: [iMathias1: Applied effect Night Vision to 4 targets]
+[15:11:48] [Async Chat Thread - #8/INFO]: [Not Secure] <iMathias1> que risa
+[15:11:51] [Server thread/INFO]: iMathias1 issued server command: /tp iAnderson1 @s
+[15:11:51] [Server thread/INFO]: [iMathias1: Teleported iAnderson1 to iMathias1]
+[15:11:59] [Server thread/INFO]: iAnderson1 fell from a high place
+[15:12:09] [Server thread/INFO]: iMathias1 issued server command: /tp iAnderson1 @s
+[15:12:09] [Server thread/INFO]: [iMathias1: Teleported iAnderson1 to iMathias1]
+[15:12:20] [Server thread/INFO]: iMathias1 issued server command: /effect give iAnderson1 minecraft:health_boost infinite 3 true
+[15:12:20] [Server thread/INFO]: [iMathias1: Applied effect Health Boost to iAnderson1]
+[15:12:21] [Server thread/INFO]: iAnderson1 fell from a high place
+[15:12:39] [Server thread/INFO]: IloveStiven_ was slain by Zombie
+[15:12:41] [Async Chat Thread - #8/INFO]: [Not Secure] <iMathias1> XDD
+[15:12:41] [Server thread/INFO]: iAnderson1 was slain by Zombie
+[15:12:45] [Server thread/INFO]: iMathias1 issued server command: /kick iAnderson1
+[15:12:45] [Server thread/INFO]: iAnderson1 lost connection: Kicked by an operator
+[15:12:45] [Server thread/INFO]: iAnderson1 left the game
+[15:12:45] [Server thread/INFO]: [iMathias1: Kicked iAnderson1: Kicked by an operator]
+[15:12:58] [Async Chat Thread - #8/INFO]: [Not Secure] <iMathias1> lo saque pq el man solo estaba que se suicidaba
+[15:13:39] [Server thread/INFO]: iEileen1 fell from a high place
+[15:13:56] [Async Chat Thread - #8/INFO]: [Not Secure] <iMathias1> no xd
+[15:14:06] [Async Chat Thread - #8/INFO]: [Not Secure] <iMathias1> porque estaban que me insistian
+[15:14:13] [Async Chat Thread - #8/INFO]: [Not Secure] <iMathias1> "haz un server"
+[15:14:14] [Async Chat Thread - #8/INFO]: [Not Secure] <iMathias1> "haz un server"
+[15:14:14] [Async Chat Thread - #8/INFO]: [Not Secure] <iMathias1> "haz un server"
+[15:14:41] [Server thread/INFO]: iMathias1 issued server command: /effect give @a minecraft:night_vision infinite 1 true
+[15:14:41] [Server thread/INFO]: [iMathias1: Applied effect Night Vision to 3 targets]
+[15:15:05] [Async Chat Thread - #8/INFO]: [Not Secure] <iMathias1> mejor pa t8 esto XD
+[15:15:06] [Server thread/INFO]: iEileen1 lost connection: Disconnected
+[15:15:06] [Server thread/INFO]: iEileen1 left the game
+[15:15:13] [Async Chat Thread - #7/INFO]: [Not Secure] <iMathias1> a t8 si le gust
+[15:15:14] [Async Chat Thread - #7/INFO]: [Not Secure] <iMathias1> a que si
+[15:15:24] [Async Chat Thread - #7/INFO]: [Not Secure] <iMathias1> call nuvs
+[15:15:31] [Async Chat Thread - #7/INFO]: [Not Secure] <iMathias1> si esta
